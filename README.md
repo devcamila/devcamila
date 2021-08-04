@@ -1,10 +1,10 @@
 <div align="center">
  
-##  Oie! Eu sou a Dev Camila Lacerda 🤗
+#  Oie! Eu sou a Dev Camila Lacerda 🤗
 
-##### 🌱 Sou estudante de desenvolvimento Front-End
-##### 🧠 Amo aprender e sei que o conhecimento transforma
-##### 🚀Quero compartilhar cada bloquinho dessa jornada
+#### 🌱 Sou estudante de desenvolvimento Front-End
+#### 🧠 Amo aprender e sei que o conhecimento transforma
+#### 🚀Quero compartilhar cada bloquinho dessa jornada
 </div>
 
 ---
