@@ -1,6 +1,6 @@
 <div align="center">
  
-#  Oie! Eu sou a Dev Camila Lacerda 🤗
+# Hello world, eu sou a Dev Camila Lacerda 🤗
 
 #### 🌱 Sou estudante de desenvolvimento Front-End
 #### 🧠 Amo aprender e sei que o conhecimento transforma
