@@ -11,8 +11,8 @@
 
   <div align="center" ><br>
   <a href="https://github.com/devcamila">
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
   </div>
 
   <div  align="center" style="display: inline_block"><br>
