@@ -9,10 +9,10 @@
 
 ---
 
-  <div align="center" ><br>
+  <div align="center" style="display: inline_block" ><br>
   <a href="https://github.com/devcamila">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
   </div>
 
   <div  align="center" style="display: inline_block"><br>
@@ -23,7 +23,6 @@
   <h3 lign="center">       Em breve ...    </h3> <br />
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Caca-gra" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg">
   <img align="center" alt="devCamila-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain.svg">
   </div> 
