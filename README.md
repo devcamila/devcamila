@@ -1,26 +1,28 @@
 <div align="center">
  
-# Hello world, eu sou a Dev Camila Lacerda 🤗
-
+## Camila Lacerda
 #### 🌱 Full-stack Drupal developer
-#### 🧠 Amo aprender e sei que o conhecimento transforma
+#### 🧠 Knowledge is power
 </div>
 
 ---
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/devcamila">
-    <img height="160" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="160" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcamila)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="160" width="400" src="https://stats.dooboo.io/api/github-stats?login=devcamila&theme=gruvbox" />
+    <img height="160" width="400" src="https://stats.dooboo.io/api/top-langs?login=devcamila&theme=gruvbox&layout=compact" />
   </a>
 </div>
 
 
   <div  align="center" style="display: inline_block"><br>
+  <img align="center" alt="devcamila-Drupal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
+  <img align="center" alt="devcamila-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="devcamila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="devcamila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="devcamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="devcamila-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"><br />
+  <img align="center" alt="devcamila-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   </div> 
   
  ---
