@@ -2,9 +2,8 @@
  
 # Hello world, eu sou a Dev Camila Lacerda 🤗
 
-#### 🌱 Sou estudante de desenvolvimento Full-Stack
+#### 🌱 Full-stack Drupal developer
 #### 🧠 Amo aprender e sei que o conhecimento transforma
-#### 🚀Quero compartilhar cada bloquinho dessa jornada
 </div>
 
 ---
