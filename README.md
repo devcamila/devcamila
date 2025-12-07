@@ -1,19 +1,10 @@
 <div align="center">
  
-## Camila Lacerda
+# Camila Lacerda
 #### 🌱 Full-stack Drupal developer
 #### 🧠 Knowledge is power
 </div>
 
----
-
-<div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/devcamila">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcamila)](https://github.com/anuraghazra/github-readme-stats)
-    <img height="160" width="400" src="https://stats.dooboo.io/api/github-stats?login=devcamila&theme=gruvbox" />
-    <img height="160" width="400" src="https://stats.dooboo.io/api/top-langs?login=devcamila&theme=gruvbox&layout=compact" />
-  </a>
-</div>
 
 
   <div  align="center" style="display: inline_block"><br>
