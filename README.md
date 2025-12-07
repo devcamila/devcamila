@@ -8,11 +8,13 @@
 
 ---
 
-  <div align="center" style="display: inline_block" ><br>
+<div align="center" style="display: inline_block"><br>
   <a href="https://github.com/devcamila">
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
-  </div>
+    <img height="160" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devcamila&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="160" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devcamila&layout=compact&langs_count=7&theme=gruvbox"/>
+  </a>
+</div>
+
 
   <div  align="center" style="display: inline_block"><br>
   <img align="center" alt="devcamila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
